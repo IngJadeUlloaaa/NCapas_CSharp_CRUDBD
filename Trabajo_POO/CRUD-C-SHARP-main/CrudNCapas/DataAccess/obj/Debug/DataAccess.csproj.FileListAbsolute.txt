@@ -1,0 +1,54 @@
+C:\Users\Luis Angel\Desktop\Crud-C-Sharp-Curso\CrudNCapas\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Luis Angel\Desktop\Crud-C-Sharp-Curso\CrudNCapas\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Luis Angel\Desktop\Crud-C-Sharp-Curso\CrudNCapas\DataAccess\bin\Debug\Common.dll
+C:\Users\Luis Angel\Desktop\Crud-C-Sharp-Curso\CrudNCapas\DataAccess\bin\Debug\Common.pdb
+C:\Users\Luis Angel\Desktop\Crud-C-Sharp-Curso\CrudNCapas\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\Luis Angel\Desktop\Crud-C-Sharp-Curso\CrudNCapas\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Luis Angel\Desktop\Crud-C-Sharp-Curso\CrudNCapas\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\Luis Angel\Desktop\Crud-C-Sharp-Curso\CrudNCapas\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Luis Angel\Desktop\Crud-C-Sharp-Curso\CrudNCapas\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\KenRollings\Desktop\Crud Nortwing Categoria-Territorio\CRUD-C-SHARP-main\CrudNCapas\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\Users\KenRollings\Desktop\Crud Nortwing Categoria-Territorio\CRUD-C-SHARP-main\CrudNCapas\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\KenRollings\Desktop\Crud Nortwing Categoria-Territorio\CRUD-C-SHARP-main\CrudNCapas\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\KenRollings\Desktop\Crud Nortwing Categoria-Territorio\CRUD-C-SHARP-main\CrudNCapas\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\KenRollings\Desktop\Crud Nortwing Categoria-Territorio\CRUD-C-SHARP-main\CrudNCapas\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\KenRollings\Desktop\Crud Nortwing Categoria-Territorio\CRUD-C-SHARP-main\CrudNCapas\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\KenRollings\Desktop\Crud Nortwing Categoria-Territorio\CRUD-C-SHARP-main\CrudNCapas\DataAccess\bin\Debug\Common.dll
+C:\Users\KenRollings\Desktop\Crud Nortwing Categoria-Territorio\CRUD-C-SHARP-main\CrudNCapas\DataAccess\bin\Debug\Common.pdb
+C:\Users\KenRollings\Desktop\Crud Nortwing Categoria-Territorio\CRUD-C-SHARP-main\CrudNCapas\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\KenRollings\Desktop\FORO 7 PAIS POO\CRUD-C-SHARP-main\CrudNCapas\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\Users\KenRollings\Desktop\FORO 7 PAIS POO\CRUD-C-SHARP-main\CrudNCapas\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\KenRollings\Desktop\FORO 7 PAIS POO\CRUD-C-SHARP-main\CrudNCapas\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\KenRollings\Desktop\FORO 7 PAIS POO\CRUD-C-SHARP-main\CrudNCapas\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\KenRollings\Desktop\FORO 7 PAIS POO\CRUD-C-SHARP-main\CrudNCapas\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\KenRollings\Desktop\FORO 7 PAIS POO\CRUD-C-SHARP-main\CrudNCapas\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\KenRollings\Desktop\FORO 7 PAIS POO\CRUD-C-SHARP-main\CrudNCapas\DataAccess\bin\Debug\Common.dll
+C:\Users\KenRollings\Desktop\FORO 7 PAIS POO\CRUD-C-SHARP-main\CrudNCapas\DataAccess\bin\Debug\Common.pdb
+C:\Users\KenRollings\Desktop\FORO 7 PAIS POO\CRUD-C-SHARP-main\CrudNCapas\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\GLOBAL PRO\OneDrive\Escritorio\FORO 3 PAIS POO\CRUD-C-SHARP-main\CrudNCapas\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\GLOBAL PRO\OneDrive\Escritorio\FORO 3 PAIS POO\CRUD-C-SHARP-main\CrudNCapas\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\GLOBAL PRO\OneDrive\Escritorio\FORO 3 PAIS POO\CRUD-C-SHARP-main\CrudNCapas\DataAccess\bin\Debug\Common.dll
+C:\Users\GLOBAL PRO\OneDrive\Escritorio\FORO 3 PAIS POO\CRUD-C-SHARP-main\CrudNCapas\DataAccess\bin\Debug\Common.pdb
+C:\Users\GLOBAL PRO\OneDrive\Escritorio\FORO 3 PAIS POO\CRUD-C-SHARP-main\CrudNCapas\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\Users\GLOBAL PRO\OneDrive\Escritorio\FORO 3 PAIS POO\CRUD-C-SHARP-main\CrudNCapas\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\GLOBAL PRO\OneDrive\Escritorio\FORO 3 PAIS POO\CRUD-C-SHARP-main\CrudNCapas\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\GLOBAL PRO\OneDrive\Escritorio\FORO 3 PAIS POO\CRUD-C-SHARP-main\CrudNCapas\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\GLOBAL PRO\OneDrive\Escritorio\FORO 3 PAIS POO\CRUD-C-SHARP-main\CrudNCapas\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\GLOBAL PRO\OneDrive\Escritorio\FORO 3\CRUD-C-SHARP-main\CrudNCapas\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\GLOBAL PRO\OneDrive\Escritorio\FORO 3\CRUD-C-SHARP-main\CrudNCapas\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\GLOBAL PRO\OneDrive\Escritorio\FORO 3\CRUD-C-SHARP-main\CrudNCapas\DataAccess\bin\Debug\Common.dll
+C:\Users\GLOBAL PRO\OneDrive\Escritorio\FORO 3\CRUD-C-SHARP-main\CrudNCapas\DataAccess\bin\Debug\Common.pdb
+C:\Users\GLOBAL PRO\OneDrive\Escritorio\FORO 3\CRUD-C-SHARP-main\CrudNCapas\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\Users\GLOBAL PRO\OneDrive\Escritorio\FORO 3\CRUD-C-SHARP-main\CrudNCapas\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\GLOBAL PRO\OneDrive\Escritorio\FORO 3\CRUD-C-SHARP-main\CrudNCapas\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\GLOBAL PRO\OneDrive\Escritorio\FORO 3\CRUD-C-SHARP-main\CrudNCapas\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\GLOBAL PRO\OneDrive\Escritorio\FORO 3\CRUD-C-SHARP-main\CrudNCapas\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\User\Desktop\Trabajo_POO\CRUD-C-SHARP-main\CrudNCapas\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\User\Desktop\Trabajo_POO\CRUD-C-SHARP-main\CrudNCapas\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\User\Desktop\Trabajo_POO\CRUD-C-SHARP-main\CrudNCapas\DataAccess\bin\Debug\Common.dll
+C:\Users\User\Desktop\Trabajo_POO\CRUD-C-SHARP-main\CrudNCapas\DataAccess\bin\Debug\Common.pdb
+C:\Users\User\Desktop\Trabajo_POO\CRUD-C-SHARP-main\CrudNCapas\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Trabajo_POO\CRUD-C-SHARP-main\CrudNCapas\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Trabajo_POO\CRUD-C-SHARP-main\CrudNCapas\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\User\Desktop\Trabajo_POO\CRUD-C-SHARP-main\CrudNCapas\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\User\Desktop\Trabajo_POO\CRUD-C-SHARP-main\CrudNCapas\DataAccess\obj\Debug\DataAccess.pdb

@@ -1,0 +1,111 @@
+C:\Users\Luis Angel\Desktop\Crud-C-Sharp-Curso\CrudNCapas\Presentation\bin\Debug\Presentation.exe.config
+C:\Users\Luis Angel\Desktop\Crud-C-Sharp-Curso\CrudNCapas\Presentation\bin\Debug\Presentation.exe
+C:\Users\Luis Angel\Desktop\Crud-C-Sharp-Curso\CrudNCapas\Presentation\bin\Debug\Presentation.pdb
+C:\Users\Luis Angel\Desktop\Crud-C-Sharp-Curso\CrudNCapas\Presentation\obj\Debug\Presentation.csprojAssemblyReference.cache
+C:\Users\Luis Angel\Desktop\Crud-C-Sharp-Curso\CrudNCapas\Presentation\obj\Debug\Presentation.Form1.resources
+C:\Users\Luis Angel\Desktop\Crud-C-Sharp-Curso\CrudNCapas\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+C:\Users\Luis Angel\Desktop\Crud-C-Sharp-Curso\CrudNCapas\Presentation\obj\Debug\Presentation.csproj.GenerateResource.cache
+C:\Users\Luis Angel\Desktop\Crud-C-Sharp-Curso\CrudNCapas\Presentation\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Luis Angel\Desktop\Crud-C-Sharp-Curso\CrudNCapas\Presentation\obj\Debug\Presentation.exe
+C:\Users\Luis Angel\Desktop\Crud-C-Sharp-Curso\CrudNCapas\Presentation\obj\Debug\Presentation.pdb
+C:\Users\Luis Angel\Desktop\Crud-C-Sharp-Curso\CrudNCapas\Presentation\bin\Debug\Guna.UI2.dll
+C:\Users\Luis Angel\Desktop\Crud-C-Sharp-Curso\CrudNCapas\Presentation\obj\Debug\Presentation.csproj.CopyComplete
+C:\Users\Luis Angel\Desktop\Crud-C-Sharp-Curso\CrudNCapas\Presentation\bin\Debug\Common.dll
+C:\Users\Luis Angel\Desktop\Crud-C-Sharp-Curso\CrudNCapas\Presentation\bin\Debug\Domain.dll
+C:\Users\Luis Angel\Desktop\Crud-C-Sharp-Curso\CrudNCapas\Presentation\bin\Debug\DataAccess.dll
+C:\Users\Luis Angel\Desktop\Crud-C-Sharp-Curso\CrudNCapas\Presentation\bin\Debug\Common.pdb
+C:\Users\Luis Angel\Desktop\Crud-C-Sharp-Curso\CrudNCapas\Presentation\bin\Debug\Domain.pdb
+C:\Users\Luis Angel\Desktop\Crud-C-Sharp-Curso\CrudNCapas\Presentation\bin\Debug\DataAccess.pdb
+C:\Users\KenRollings\Desktop\Crud Nortwing Categoria-Territorio\CRUD-C-SHARP-main\CrudNCapas\Presentation\bin\Debug\Presentation.exe.config
+C:\Users\KenRollings\Desktop\Crud Nortwing Categoria-Territorio\CRUD-C-SHARP-main\CrudNCapas\Presentation\bin\Debug\Presentation.exe
+C:\Users\KenRollings\Desktop\Crud Nortwing Categoria-Territorio\CRUD-C-SHARP-main\CrudNCapas\Presentation\bin\Debug\Presentation.pdb
+C:\Users\KenRollings\Desktop\Crud Nortwing Categoria-Territorio\CRUD-C-SHARP-main\CrudNCapas\Presentation\bin\Debug\Common.dll
+C:\Users\KenRollings\Desktop\Crud Nortwing Categoria-Territorio\CRUD-C-SHARP-main\CrudNCapas\Presentation\bin\Debug\Domain.dll
+C:\Users\KenRollings\Desktop\Crud Nortwing Categoria-Territorio\CRUD-C-SHARP-main\CrudNCapas\Presentation\bin\Debug\Guna.UI2.dll
+C:\Users\KenRollings\Desktop\Crud Nortwing Categoria-Territorio\CRUD-C-SHARP-main\CrudNCapas\Presentation\bin\Debug\DataAccess.dll
+C:\Users\KenRollings\Desktop\Crud Nortwing Categoria-Territorio\CRUD-C-SHARP-main\CrudNCapas\Presentation\bin\Debug\Common.pdb
+C:\Users\KenRollings\Desktop\Crud Nortwing Categoria-Territorio\CRUD-C-SHARP-main\CrudNCapas\Presentation\bin\Debug\Domain.pdb
+C:\Users\KenRollings\Desktop\Crud Nortwing Categoria-Territorio\CRUD-C-SHARP-main\CrudNCapas\Presentation\bin\Debug\DataAccess.pdb
+C:\Users\KenRollings\Desktop\Crud Nortwing Categoria-Territorio\CRUD-C-SHARP-main\CrudNCapas\Presentation\obj\Debug\Presentation.csproj.AssemblyReference.cache
+C:\Users\KenRollings\Desktop\Crud Nortwing Categoria-Territorio\CRUD-C-SHARP-main\CrudNCapas\Presentation\obj\Debug\Presentation.Form1.resources
+C:\Users\KenRollings\Desktop\Crud Nortwing Categoria-Territorio\CRUD-C-SHARP-main\CrudNCapas\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+C:\Users\KenRollings\Desktop\Crud Nortwing Categoria-Territorio\CRUD-C-SHARP-main\CrudNCapas\Presentation\obj\Debug\Presentation.csproj.GenerateResource.cache
+C:\Users\KenRollings\Desktop\Crud Nortwing Categoria-Territorio\CRUD-C-SHARP-main\CrudNCapas\Presentation\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\KenRollings\Desktop\Crud Nortwing Categoria-Territorio\CRUD-C-SHARP-main\CrudNCapas\Presentation\obj\Debug\Presentation.csproj.CopyComplete
+C:\Users\KenRollings\Desktop\Crud Nortwing Categoria-Territorio\CRUD-C-SHARP-main\CrudNCapas\Presentation\obj\Debug\Presentation.exe
+C:\Users\KenRollings\Desktop\Crud Nortwing Categoria-Territorio\CRUD-C-SHARP-main\CrudNCapas\Presentation\obj\Debug\Presentation.pdb
+C:\Users\KenRollings\Desktop\FORO 7 PAIS POO\CRUD-C-SHARP-main\CrudNCapas\Presentation\bin\Debug\Presentation.exe.config
+C:\Users\KenRollings\Desktop\FORO 7 PAIS POO\CRUD-C-SHARP-main\CrudNCapas\Presentation\bin\Debug\Presentation.exe
+C:\Users\KenRollings\Desktop\FORO 7 PAIS POO\CRUD-C-SHARP-main\CrudNCapas\Presentation\bin\Debug\Presentation.pdb
+C:\Users\KenRollings\Desktop\FORO 7 PAIS POO\CRUD-C-SHARP-main\CrudNCapas\Presentation\bin\Debug\Common.dll
+C:\Users\KenRollings\Desktop\FORO 7 PAIS POO\CRUD-C-SHARP-main\CrudNCapas\Presentation\bin\Debug\Domain.dll
+C:\Users\KenRollings\Desktop\FORO 7 PAIS POO\CRUD-C-SHARP-main\CrudNCapas\Presentation\bin\Debug\Guna.UI2.dll
+C:\Users\KenRollings\Desktop\FORO 7 PAIS POO\CRUD-C-SHARP-main\CrudNCapas\Presentation\bin\Debug\DataAccess.dll
+C:\Users\KenRollings\Desktop\FORO 7 PAIS POO\CRUD-C-SHARP-main\CrudNCapas\Presentation\bin\Debug\Common.pdb
+C:\Users\KenRollings\Desktop\FORO 7 PAIS POO\CRUD-C-SHARP-main\CrudNCapas\Presentation\bin\Debug\Domain.pdb
+C:\Users\KenRollings\Desktop\FORO 7 PAIS POO\CRUD-C-SHARP-main\CrudNCapas\Presentation\bin\Debug\DataAccess.pdb
+C:\Users\KenRollings\Desktop\FORO 7 PAIS POO\CRUD-C-SHARP-main\CrudNCapas\Presentation\obj\Debug\Presentation.csproj.AssemblyReference.cache
+C:\Users\KenRollings\Desktop\FORO 7 PAIS POO\CRUD-C-SHARP-main\CrudNCapas\Presentation\obj\Debug\Presentation.Form1.resources
+C:\Users\KenRollings\Desktop\FORO 7 PAIS POO\CRUD-C-SHARP-main\CrudNCapas\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+C:\Users\KenRollings\Desktop\FORO 7 PAIS POO\CRUD-C-SHARP-main\CrudNCapas\Presentation\obj\Debug\Presentation.csproj.GenerateResource.cache
+C:\Users\KenRollings\Desktop\FORO 7 PAIS POO\CRUD-C-SHARP-main\CrudNCapas\Presentation\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\KenRollings\Desktop\FORO 7 PAIS POO\CRUD-C-SHARP-main\CrudNCapas\Presentation\obj\Debug\Presentation.csproj.CopyComplete
+C:\Users\KenRollings\Desktop\FORO 7 PAIS POO\CRUD-C-SHARP-main\CrudNCapas\Presentation\obj\Debug\Presentation.exe
+C:\Users\KenRollings\Desktop\FORO 7 PAIS POO\CRUD-C-SHARP-main\CrudNCapas\Presentation\obj\Debug\Presentation.pdb
+C:\Users\GLOBAL PRO\OneDrive\Escritorio\FORO 3 PAIS POO\CRUD-C-SHARP-main\CrudNCapas\Presentation\bin\Debug\Presentation.exe.config
+C:\Users\GLOBAL PRO\OneDrive\Escritorio\FORO 3 PAIS POO\CRUD-C-SHARP-main\CrudNCapas\Presentation\bin\Debug\Presentation.exe
+C:\Users\GLOBAL PRO\OneDrive\Escritorio\FORO 3 PAIS POO\CRUD-C-SHARP-main\CrudNCapas\Presentation\bin\Debug\Presentation.pdb
+C:\Users\GLOBAL PRO\OneDrive\Escritorio\FORO 3 PAIS POO\CRUD-C-SHARP-main\CrudNCapas\Presentation\bin\Debug\Common.dll
+C:\Users\GLOBAL PRO\OneDrive\Escritorio\FORO 3 PAIS POO\CRUD-C-SHARP-main\CrudNCapas\Presentation\bin\Debug\Domain.dll
+C:\Users\GLOBAL PRO\OneDrive\Escritorio\FORO 3 PAIS POO\CRUD-C-SHARP-main\CrudNCapas\Presentation\bin\Debug\Guna.UI2.dll
+C:\Users\GLOBAL PRO\OneDrive\Escritorio\FORO 3 PAIS POO\CRUD-C-SHARP-main\CrudNCapas\Presentation\bin\Debug\DataAccess.dll
+C:\Users\GLOBAL PRO\OneDrive\Escritorio\FORO 3 PAIS POO\CRUD-C-SHARP-main\CrudNCapas\Presentation\bin\Debug\Common.pdb
+C:\Users\GLOBAL PRO\OneDrive\Escritorio\FORO 3 PAIS POO\CRUD-C-SHARP-main\CrudNCapas\Presentation\bin\Debug\Domain.pdb
+C:\Users\GLOBAL PRO\OneDrive\Escritorio\FORO 3 PAIS POO\CRUD-C-SHARP-main\CrudNCapas\Presentation\bin\Debug\DataAccess.pdb
+C:\Users\GLOBAL PRO\OneDrive\Escritorio\FORO 3 PAIS POO\CRUD-C-SHARP-main\CrudNCapas\Presentation\obj\Debug\Presentation.csproj.AssemblyReference.cache
+C:\Users\GLOBAL PRO\OneDrive\Escritorio\FORO 3 PAIS POO\CRUD-C-SHARP-main\CrudNCapas\Presentation\obj\Debug\Presentation.csproj.SuggestedBindingRedirects.cache
+C:\Users\GLOBAL PRO\OneDrive\Escritorio\FORO 3 PAIS POO\CRUD-C-SHARP-main\CrudNCapas\Presentation\obj\Debug\Presentation.Form1.resources
+C:\Users\GLOBAL PRO\OneDrive\Escritorio\FORO 3 PAIS POO\CRUD-C-SHARP-main\CrudNCapas\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+C:\Users\GLOBAL PRO\OneDrive\Escritorio\FORO 3 PAIS POO\CRUD-C-SHARP-main\CrudNCapas\Presentation\obj\Debug\Presentation.csproj.GenerateResource.cache
+C:\Users\GLOBAL PRO\OneDrive\Escritorio\FORO 3 PAIS POO\CRUD-C-SHARP-main\CrudNCapas\Presentation\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\GLOBAL PRO\OneDrive\Escritorio\FORO 3 PAIS POO\CRUD-C-SHARP-main\CrudNCapas\Presentation\obj\Debug\Presentation.csproj.CopyComplete
+C:\Users\GLOBAL PRO\OneDrive\Escritorio\FORO 3 PAIS POO\CRUD-C-SHARP-main\CrudNCapas\Presentation\obj\Debug\Presentation.exe
+C:\Users\GLOBAL PRO\OneDrive\Escritorio\FORO 3 PAIS POO\CRUD-C-SHARP-main\CrudNCapas\Presentation\obj\Debug\Presentation.pdb
+C:\Users\GLOBAL PRO\OneDrive\Escritorio\FORO 3\CRUD-C-SHARP-main\CrudNCapas\Presentation\bin\Debug\Presentation.exe.config
+C:\Users\GLOBAL PRO\OneDrive\Escritorio\FORO 3\CRUD-C-SHARP-main\CrudNCapas\Presentation\bin\Debug\Presentation.exe
+C:\Users\GLOBAL PRO\OneDrive\Escritorio\FORO 3\CRUD-C-SHARP-main\CrudNCapas\Presentation\bin\Debug\Presentation.pdb
+C:\Users\GLOBAL PRO\OneDrive\Escritorio\FORO 3\CRUD-C-SHARP-main\CrudNCapas\Presentation\bin\Debug\Common.dll
+C:\Users\GLOBAL PRO\OneDrive\Escritorio\FORO 3\CRUD-C-SHARP-main\CrudNCapas\Presentation\bin\Debug\Domain.dll
+C:\Users\GLOBAL PRO\OneDrive\Escritorio\FORO 3\CRUD-C-SHARP-main\CrudNCapas\Presentation\bin\Debug\Guna.UI2.dll
+C:\Users\GLOBAL PRO\OneDrive\Escritorio\FORO 3\CRUD-C-SHARP-main\CrudNCapas\Presentation\bin\Debug\DataAccess.dll
+C:\Users\GLOBAL PRO\OneDrive\Escritorio\FORO 3\CRUD-C-SHARP-main\CrudNCapas\Presentation\bin\Debug\Common.pdb
+C:\Users\GLOBAL PRO\OneDrive\Escritorio\FORO 3\CRUD-C-SHARP-main\CrudNCapas\Presentation\bin\Debug\Domain.pdb
+C:\Users\GLOBAL PRO\OneDrive\Escritorio\FORO 3\CRUD-C-SHARP-main\CrudNCapas\Presentation\bin\Debug\DataAccess.pdb
+C:\Users\GLOBAL PRO\OneDrive\Escritorio\FORO 3\CRUD-C-SHARP-main\CrudNCapas\Presentation\obj\Debug\Presentation.csproj.AssemblyReference.cache
+C:\Users\GLOBAL PRO\OneDrive\Escritorio\FORO 3\CRUD-C-SHARP-main\CrudNCapas\Presentation\obj\Debug\Presentation.csproj.SuggestedBindingRedirects.cache
+C:\Users\GLOBAL PRO\OneDrive\Escritorio\FORO 3\CRUD-C-SHARP-main\CrudNCapas\Presentation\obj\Debug\Presentation.Form1.resources
+C:\Users\GLOBAL PRO\OneDrive\Escritorio\FORO 3\CRUD-C-SHARP-main\CrudNCapas\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+C:\Users\GLOBAL PRO\OneDrive\Escritorio\FORO 3\CRUD-C-SHARP-main\CrudNCapas\Presentation\obj\Debug\Presentation.csproj.GenerateResource.cache
+C:\Users\GLOBAL PRO\OneDrive\Escritorio\FORO 3\CRUD-C-SHARP-main\CrudNCapas\Presentation\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\GLOBAL PRO\OneDrive\Escritorio\FORO 3\CRUD-C-SHARP-main\CrudNCapas\Presentation\obj\Debug\Presentation.csproj.CopyComplete
+C:\Users\GLOBAL PRO\OneDrive\Escritorio\FORO 3\CRUD-C-SHARP-main\CrudNCapas\Presentation\obj\Debug\Presentation.exe
+C:\Users\GLOBAL PRO\OneDrive\Escritorio\FORO 3\CRUD-C-SHARP-main\CrudNCapas\Presentation\obj\Debug\Presentation.pdb
+C:\Users\User\Desktop\Trabajo_POO\CRUD-C-SHARP-main\CrudNCapas\Presentation\bin\Debug\Presentation.exe.config
+C:\Users\User\Desktop\Trabajo_POO\CRUD-C-SHARP-main\CrudNCapas\Presentation\bin\Debug\Presentation.exe
+C:\Users\User\Desktop\Trabajo_POO\CRUD-C-SHARP-main\CrudNCapas\Presentation\bin\Debug\Presentation.pdb
+C:\Users\User\Desktop\Trabajo_POO\CRUD-C-SHARP-main\CrudNCapas\Presentation\bin\Debug\Common.dll
+C:\Users\User\Desktop\Trabajo_POO\CRUD-C-SHARP-main\CrudNCapas\Presentation\bin\Debug\Domain.dll
+C:\Users\User\Desktop\Trabajo_POO\CRUD-C-SHARP-main\CrudNCapas\Presentation\bin\Debug\Guna.UI2.dll
+C:\Users\User\Desktop\Trabajo_POO\CRUD-C-SHARP-main\CrudNCapas\Presentation\bin\Debug\DataAccess.dll
+C:\Users\User\Desktop\Trabajo_POO\CRUD-C-SHARP-main\CrudNCapas\Presentation\bin\Debug\Common.pdb
+C:\Users\User\Desktop\Trabajo_POO\CRUD-C-SHARP-main\CrudNCapas\Presentation\bin\Debug\Domain.pdb
+C:\Users\User\Desktop\Trabajo_POO\CRUD-C-SHARP-main\CrudNCapas\Presentation\bin\Debug\DataAccess.pdb
+C:\Users\User\Desktop\Trabajo_POO\CRUD-C-SHARP-main\CrudNCapas\Presentation\obj\Debug\Presentation.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Trabajo_POO\CRUD-C-SHARP-main\CrudNCapas\Presentation\obj\Debug\Presentation.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Trabajo_POO\CRUD-C-SHARP-main\CrudNCapas\Presentation\obj\Debug\Presentation.Form1.resources
+C:\Users\User\Desktop\Trabajo_POO\CRUD-C-SHARP-main\CrudNCapas\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+C:\Users\User\Desktop\Trabajo_POO\CRUD-C-SHARP-main\CrudNCapas\Presentation\obj\Debug\Presentation.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Trabajo_POO\CRUD-C-SHARP-main\CrudNCapas\Presentation\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Trabajo_POO\CRUD-C-SHARP-main\CrudNCapas\Presentation\obj\Debug\Presentation.csproj.CopyComplete
+C:\Users\User\Desktop\Trabajo_POO\CRUD-C-SHARP-main\CrudNCapas\Presentation\obj\Debug\Presentation.exe
+C:\Users\User\Desktop\Trabajo_POO\CRUD-C-SHARP-main\CrudNCapas\Presentation\obj\Debug\Presentation.pdb

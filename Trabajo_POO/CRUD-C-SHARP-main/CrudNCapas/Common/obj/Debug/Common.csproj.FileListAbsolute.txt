@@ -1,0 +1,18 @@
+C:\Users\Luis Angel\Desktop\Crud-C-Sharp-Curso\CrudNCapas\Common\bin\Debug\Common.dll
+C:\Users\Luis Angel\Desktop\Crud-C-Sharp-Curso\CrudNCapas\Common\bin\Debug\Common.pdb
+C:\Users\Luis Angel\Desktop\Crud-C-Sharp-Curso\CrudNCapas\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\Luis Angel\Desktop\Crud-C-Sharp-Curso\CrudNCapas\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Luis Angel\Desktop\Crud-C-Sharp-Curso\CrudNCapas\Common\obj\Debug\Common.dll
+C:\Users\Luis Angel\Desktop\Crud-C-Sharp-Curso\CrudNCapas\Common\obj\Debug\Common.pdb
+C:\Users\KenRollings\Desktop\Crud Nortwing Categoria-Territorio\CRUD-C-SHARP-main\CrudNCapas\Common\bin\Debug\Common.dll
+C:\Users\KenRollings\Desktop\Crud Nortwing Categoria-Territorio\CRUD-C-SHARP-main\CrudNCapas\Common\bin\Debug\Common.pdb
+C:\Users\KenRollings\Desktop\Crud Nortwing Categoria-Territorio\CRUD-C-SHARP-main\CrudNCapas\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\KenRollings\Desktop\Crud Nortwing Categoria-Territorio\CRUD-C-SHARP-main\CrudNCapas\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\KenRollings\Desktop\Crud Nortwing Categoria-Territorio\CRUD-C-SHARP-main\CrudNCapas\Common\obj\Debug\Common.dll
+C:\Users\KenRollings\Desktop\Crud Nortwing Categoria-Territorio\CRUD-C-SHARP-main\CrudNCapas\Common\obj\Debug\Common.pdb
+C:\Users\KenRollings\Desktop\FORO 7 PAIS POO\CRUD-C-SHARP-main\CrudNCapas\Common\bin\Debug\Common.dll
+C:\Users\KenRollings\Desktop\FORO 7 PAIS POO\CRUD-C-SHARP-main\CrudNCapas\Common\bin\Debug\Common.pdb
+C:\Users\KenRollings\Desktop\FORO 7 PAIS POO\CRUD-C-SHARP-main\CrudNCapas\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\KenRollings\Desktop\FORO 7 PAIS POO\CRUD-C-SHARP-main\CrudNCapas\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\KenRollings\Desktop\FORO 7 PAIS POO\CRUD-C-SHARP-main\CrudNCapas\Common\obj\Debug\Common.dll
+C:\Users\KenRollings\Desktop\FORO 7 PAIS POO\CRUD-C-SHARP-main\CrudNCapas\Common\obj\Debug\Common.pdb
